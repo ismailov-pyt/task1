@@ -1,7 +1,7 @@
 // + 1USD = 10654 UZS
 // + 1EUR = 12674 UZS
 
-let input = prompt("Qiymat kiring: ")
+let input = prompt("Qiymat kiriting: ")
 input = Number(input)
 let USD = input / 10654
 let EUR = input / 12674
